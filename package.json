@@ -1,8 +1,25 @@
 {
+  "name": "eslint-project",
+  "version": "1.0.0",
+  "description": "\"ESLint project\"",
+  "main": "index.js",
   "devDependencies": {
     "eslint": "^8.57.0"
   },
   "scripts": {
     "lint": "eslint ."
-}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizabethKorn/ESLint.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Liza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElizabethKorn/ESLint/issues"
+  },
+  "homepage": "https://github.com/ElizabethKorn/ESLint#readme"
 }
